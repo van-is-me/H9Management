@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>H9</id>
+    <version>1.0.0</version>
+    <authors>H9</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0">
+        <dependency id="Repository" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\WorkSpace\CSharp\H9\H9\bin\Debug\net5.0-windows\H9.runtimeconfig.json" target="lib\net5.0-windows7.0\H9.runtimeconfig.json" />
+    <file src="E:\WorkSpace\CSharp\H9\H9\bin\Debug\net5.0-windows\H9.dll" target="lib\net5.0-windows7.0\H9.dll" />
+  </files>
+</package>

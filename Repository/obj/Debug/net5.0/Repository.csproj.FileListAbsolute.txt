@@ -1,0 +1,15 @@
+E:\WorkSpace\CSharp\H9\Repository\bin\Debug\net5.0\Repository.deps.json
+E:\WorkSpace\CSharp\H9\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+E:\WorkSpace\CSharp\H9\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+E:\WorkSpace\CSharp\H9\Repository\bin\Debug\net5.0\Repository.dll
+E:\WorkSpace\CSharp\H9\Repository\bin\Debug\net5.0\Repository.pdb
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.dll
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\refint\Repository.dll
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.pdb
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+E:\WorkSpace\CSharp\H9\Repository\obj\Debug\net5.0\ref\Repository.dll
